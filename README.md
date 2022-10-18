@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pranj999
+- 👋 Hi, I’m Pranjal Patel
 - 👀 I’m interested in Machine learning, Artificial intelligence and Data science
-- 🌱 I’m currently learning Natural language proceccing and am pursuing Master in computer science
+- 🌱 I’m currently learning Natural language processing and am pursuing Master in computer science
 - 📫 How to reach me pranj999@gmail.com
 
 <!---
