@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranjal Patel
-- 👀 I’m interested in Machine learning, Artificial intelligence and Data science
-- 🌱 I’m currently learning Natural language processing and am pursuing Master in computer science
+- 👀 I’m interested in Machine learning, Artificial intelligence, Data science, Backend and Front end web development
+- 🌱 I’m currently pursuing Master in computer science and will be graduating in the month of January 2023
 - 📫 How to reach me pranj999@gmail.com
 
 <!---
